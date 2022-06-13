@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.tabs{display:flex;list-style-type:none;margin:0;padding:0}.tabs__item{padding:5px;border-bottom:2px solid red}.tabs__item--selected{border:2px solid;border-color:red red #fff}.tabs__link{text-decoration:none;color:#000;font-size:20px}
+/*# sourceMappingURL=main.12715426.chunk.css.map */
